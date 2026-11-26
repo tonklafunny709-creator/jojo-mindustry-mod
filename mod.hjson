@@ -1,0 +1,7 @@
+name: "jojo-stand-mod"
+displayName: "JoJo Stand Mod"
+author: "Player"
+description: "JoJo Stand mod for Mindustry with Summon, Switch, and Skill buttons."
+version: "1.0.0"
+minGameVersion: "146"
+hidden: false
